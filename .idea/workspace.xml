@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a99ad6c0-f61e-43b7-b1ce-f4a14d0e30ec" name="Changes" comment="" />
+    <list default="true" id="a99ad6c0-f61e-43b7-b1ce-f4a14d0e30ec" name="Changes" comment="lab solved push">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +22,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "anruiz-r"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/anruiz-r/lab-java-add-and-update.git",
+    "accountId": "5731e800-acdd-4a5f-9094-470ba2d2df6b"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -55,7 +69,20 @@
       <option name="presentableId" value="Default" />
       <updated>1746196854405</updated>
     </task>
+    <task id="LOCAL-00001" summary="lab solved push">
+      <option name="closed" value="true" />
+      <created>1746236948824</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1746236948824</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="lab solved push" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab solved push" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
